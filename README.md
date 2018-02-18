@@ -3,8 +3,8 @@ Top Down Shooter made with Unity
 
 ## Download 
 
-Windows x64 build : https://goo.gl/jxD7ZC
+Windows x64 build : https://goo.gl/4uqZrP
 
-Linux build : https://goo.gl/WWRCYK
+Linux build : https://goo.gl/rprmVB
 
-Mac OsX build : https://goo.gl/5JThoi
+Mac OsX build : https://goo.gl/NVCn7v
